@@ -22,3 +22,5 @@ Formatting Rules for graph data
 This is a project i was working on before, it makes creates a spotlight around an object whereever the object goes,
 this was the begining of a 2d horror game i was making, but school got too hectic and i had to leave it behind. Will continue
 in the future. Candle.pde creates the candle like effect.
+
+![personal](https://user-images.githubusercontent.com/15314851/60807036-9de60b00-a152-11e9-8e2a-1202e99877e8.png)
