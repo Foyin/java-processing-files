@@ -8,6 +8,11 @@ You can download it [here](https://processing.org/)
 
 ### Graphing
 This takes information from a csv file and represents it in a graph
+This graph is used for visualization and comparisons
+
+Formatting Rules for graph data
+- No commas or points in rows
+- names on the left values (integer) on the right
 
 ![screenshot3](https://user-images.githubusercontent.com/15314851/60805244-86f0ea00-a14d-11e9-8c09-96db3b3b4a3e.png)
 ![screenshot2](https://user-images.githubusercontent.com/15314851/60805251-8a847100-a14d-11e9-9ede-e0b75d0676e3.png)
